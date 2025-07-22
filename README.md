@@ -27,7 +27,7 @@ Uma aplicação simples que recebe o nome e a quantidade de XP de um herói e re
 
 ## Preview
 
-<img src="src/images/print.png" alt="Print do site" width="60%"/>
+<img src="src/images/print.png" alt="Print do site" />
 
 ## Aprendizados
 
